@@ -1,0 +1,38 @@
+Issue de la génération 80, j'ai été biberonné au club Dorothée et aux dessins animés de la 5 le dimanche matin.
+J'ai toujours eux des crayons dans les mains. Jai usé des boites entières de Crayolas et de feutres. J'ai dès lors developpé une passion pour le coloriage. Tout y passait en plus des ramettes de papier, à savoir les murs de ma chambre, mon corps, ma lague (on sait jamais si ça goute bon), mes poupées barbies et mes poupées poupon: pas de discrimination. Tout avait le droit à un relooking. Je passais aussi des heures sur mon ardoise magique (le meilleur cadeau de noel avec mon baril de legos)à faire apparaitre des formes que moi seule comprennaient.
+Moi: "t'as vu maman mon dinosaure"
+Maman: "oui ma chérie il est beau ton chien"
+BREF, le dessin à toujours fait parti de ma vie.
+J'ai longtemps pensé à en faire mon métier: DESSINATRICE (en lettres capitales rouge qui brillent)
+Avec l'age l'envie à évolué: Architecte d'interieur, Décoratrice, Etalagiste..
+Toujours dans le visuel, la ligne, la structure, la couleur, l'harmonie..
+Ma route a pris un tournant different et m'a amené au graphisme. J'ai appris à faire et à structuré une affiche (centrer le texte, travailler les images, les modifier, mettre en valeur le logo).Créer un logo pour une marque, une entreprise, être le créateur d'une identité visuelle, c'est comme avoir une cape de superhéro!
+Après cela j'ai eu envie de compléter mes connaissances artistiques, en entreprenant une  license en Histoire de l'Art. Et c'est pour moi un badge essentiel  à mon profil. Lier réferences artistiques et pop élargi mon spectre de création.
+Je comprenais enfin le message des affiches que je croisais quotidiennement.
+J'ai mis en pratique mes acquis dans ma vie professionelle et ce metier me permet chaque jours de developper ma créativité, mon gout pour la couleur et ma rigueur.
+
+<!-- </section> -->
+
+    <!-- <p class="storytelling text-justify">
+            Issue de la génération 80, j'ai été biberonné au club Dorothée et aux dessins animés de la 5 le dimanche matin.
+            J'ai toujours eux des crayons dans les mains. Jai usé des boites entières de Crayolas et de feutres.
+            J'ai dès lors developpé une passion pour le coloriage. Tout y passait en plus des ramettes de papier, à savoir les
+            murs de ma chambre, mon corps, ma lague (on sait jamais si ça goute bon), mes poupées barbies et mes poupées
+            poupon: pas de discrimination. Tout avait le droit à un relooking. Je passais aussi des heures sur mon ardoise magique
+            (le meilleur cadeau de noel avec mon baril de legos)à faire apparaitre des formes que moi seule comprennaient.</p>
+            
+            <p class="storytelling text-justify"> Moi:"T'as vu maman mon dinosaure?"</p>
+            <p class="storytelling text-justify"> Maman: "oui ma chérie il est beau ton chien"</p>
+            <p class="storytelling text-justify"> BREF, le dessin à toujours fait parti de ma vie.</p>
+          
+            <p class="storytelling text-justify">J'ai longtemps pensé à en faire mon métier: DESSINATRICE (en lettres capitales rouge qui brillent)
+            Avec l'age l'envie à évolué: Architecte d'interieur, Décoratrice, Etalagiste.. Toujours dans le visuel, la ligne, la structure, la couleur, l'harmonie..
+            Ma route a pris un tournant different et m'a amené au graphisme. J'ai appris à faire et à structuré une
+            affiche (centrer le texte, travailler les images, les modifier, mettre en valeur le logo).Créer un logo pour une
+            marque, une entreprise, être le créateur d'une identité visuelle, c'est comme avoir une cape de superhéro!
+            Après cela j'ai eu envie de compléter mes connaissances artistiques, en entreprenant une license en
+            Histoire de l'Art. Et c'est pour moi un badge essentiel à mon profil. Lier réferences artistiques et pop élargi mon
+            spectre de création.
+            Je comprenais enfin le message des affiches que je croisais quotidiennement.
+            J'ai mis en pratique mes acquis dans ma vie professionelle et ce metier me permet chaque jours de
+            developper ma créativité, mon gout pour la couleur et ma rigueur.</p> -->
